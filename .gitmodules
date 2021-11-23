@@ -1,0 +1,6 @@
+[submodule "UsersApp"]
+	path = UsersApp
+	url = git@github.com:Nimble-Momonga/UsersApp.git
+[submodule "AssetLocator"]
+	path = AssetLocator
+	url = git@github.com:Nimble-Momonga/AssetLocator.git
